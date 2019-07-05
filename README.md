@@ -1,7 +1,6 @@
 # go-vault-client
 Gives you an authenticated vault client (iam/token)
 
-
 # Usage
 go-vault-client supports two modes of authentication `Token` and `Iam`.  First create a `vaultclient.Config` using
 
